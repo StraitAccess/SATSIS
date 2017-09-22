@@ -1,0 +1,87 @@
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Properties\opencv_ffmpeg310_64.dll
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\SATSIS_TemporaryKey.pfx
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.exe.config
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.exe.manifest
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.application
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.exe
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.pdb
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.UI.dll
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.UI.GL.dll
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.World.dll
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\ZedGraph.dll
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.UI.pdb
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.UI.xml
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.UI.GL.xml
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.World.pdb
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.World.xml
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\ZedGraph.xml
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\zh-CN\ZedGraph.resources.dll
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.csprojResolveAssemblyReference.cache
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.Calibration.resources
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.Properties.Resources.resources
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSISMain.SATSISMain.resources
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.csproj.GenerateResource.Cache
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.exe.manifest
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.application
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.exe
+C:\Users\SAT-Wesley\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.pdb
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\Properties\opencv_ffmpeg310_64.dll
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\SATSIS_TemporaryKey.pfx
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.exe.config
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.exe.manifest
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.application
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.exe
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.pdb
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\ZedGraph.dll
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.UI.pdb
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.UI.xml
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.UI.GL.xml
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.World.pdb
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.World.xml
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\ZedGraph.xml
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\zh-CN\Emgu.CV.UI.resources.dll
+D:\SATSIS\C# code\CameraCapture\CameraCapture\bin\x64\Release\zh-CN\ZedGraph.resources.dll
+D:\SATSIS\C# code\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.csprojResolveAssemblyReference.cache
+D:\SATSIS\C# code\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.Calibration.resources
+D:\SATSIS\C# code\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.Properties.Resources.resources
+D:\SATSIS\C# code\CameraCapture\CameraCapture\obj\x64\Release\SATSISMain.SATSISMain.resources
+D:\SATSIS\C# code\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.csproj.GenerateResource.Cache
+D:\SATSIS\C# code\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.exe.manifest
+D:\SATSIS\C# code\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.application
+D:\SATSIS\C# code\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.exe
+D:\SATSIS\C# code\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.pdb
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.csprojResolveAssemblyReference.cache
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.Calibration.resources
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.Properties.Resources.resources
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSISMain.SATSISMain.resources
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.csproj.GenerateResource.Cache
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.exe
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.pdb
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Properties\opencv_ffmpeg310_64.dll
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\SATSIS_TemporaryKey.pfx
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.exe.config
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.exe.manifest
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.application
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.exe
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\SATSIS.pdb
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.UI.dll
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.UI.GL.dll
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.World.dll
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\ZedGraph.dll
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.UI.pdb
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.UI.xml
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.UI.GL.xml
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.World.pdb
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\Emgu.CV.World.xml
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\ZedGraph.xml
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\bin\x64\Release\zh-CN\ZedGraph.resources.dll
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.exe.manifest
+C:\Users\Microscope\Documents\Visual Studio 2017\Projects\CameraCapture\CameraCapture\obj\x64\Release\SATSIS.application
